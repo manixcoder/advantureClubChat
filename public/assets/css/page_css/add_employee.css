@@ -1,0 +1,11 @@
+.wizard.vertical>.steps {
+	width: 17%;
+}
+
+.hide {
+	display: none;
+}
+
+@media screen and (max-width: 1366px) {
+
+}

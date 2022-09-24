@@ -1,0 +1,17 @@
+.inpmr{
+	margin-top: 30px;
+}
+
+.srch{
+	margin-left: 78px;
+}
+
+@media screen and (max-width: 1366px) {
+	.inpmr{
+		margin-top: 9px !important;
+	}
+
+	.srch{
+		margin-left: 32px !important;
+	}
+}

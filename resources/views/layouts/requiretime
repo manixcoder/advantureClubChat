@@ -1,0 +1,35 @@
+
+Section name ======== Maanage By
+admin panel project setup  --- 
+make a super admin, excutive, customer --- CRUD -- managed by adminpanel
+Add home category --- CRUD -- managed by adminpanel
+Add home product --- CRUD -- managed by adminpanel
+Add product features --- CRUD -- managed by adminpanel
+region --- CRUD -- managed by adminpanel
+country --- crud -- managed by adminpanel
+add services  --- CRUD  -- managed by adminpanel
+add services category --- CRUD -- managed by adminpanel
+add services category Activity --- CRUD -- managed by adminpanel.
+
+----------------------------------------------
+
+Section name ======== Maanage By
+shop product  ---  Manage by app
+product order --- Manage by app
+programs --- Manage by app
+ratting --- Manage by app
+plan request --- Manage by app
+
+
+super admin login
+admin cread admin according to mai  like vendor 
+
+service create super admin service create karega  crud
+category super admin create karega crud
+activitys define super admin and vendor bhi create kar sackta hai 
+
+country wise tourist basis 
+
+
+
+

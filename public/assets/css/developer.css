@@ -1,0 +1,235 @@
+.inline-checkboxes .checkbox-cus{
+    display: inline-block;
+    margin-right: 4%;
+}
+.service-plan-label{
+    margin-bottom: 12px !important;
+    font-weight: bold !important;
+}
+.weekdays-row{
+    margin-top: 12px;
+}
+.selections-tab .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    color: #fff;
+    background-color: #204247;
+}
+.selections-tab .nav-link{
+    text-align: center;
+    text-align: center;
+    border: 1px solid #204247;
+    color: #204247;
+    margin: 4px 0;
+}
+.selections-tab{
+    margin-top: 3px;
+}
+.action-icons{
+    padding: 5px;
+    width: 20px !important;
+    height: 20px;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.delete-icon{
+    background: red;
+}
+.view-icon{
+    background: #204247;
+}
+.edit-icon{
+    background: #0baa0b;
+}
+.datepicker, .cursor-pointer{
+    cursor: pointer;
+}
+.add-more-btn{
+    color: #2885ee !important;
+}
+.add-more-exc, .add-more-inc{
+    color: #2885ee !important;
+}
+.close-program-btn{
+    position: relative;
+    padding: 0 0;
+    margin-bottom: 2rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+.calender_days_div{
+    margin-top: 15px;
+}
+.table td, .table th{
+    color:#000000;
+    border-top:none;
+    padding: 5px 0;
+}
+.table td{
+    color:#4d4d4d;
+    border-top:none;
+    padding: 5px 0;
+    font-weight: bold;
+}
+.table .th{
+    color:#5a5959;
+    border-top:none;
+    padding: 5px 0;
+    text-align: right;
+    padding-right: 5px;
+    width: 125px;
+    font-weight: normal;
+}
+.badge{
+
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+}
+.bg-blue{
+    background: #007bff;
+    color: #fff;
+}
+.text-blue{
+    color: #007bff;
+}
+.text-yellow{
+    color: #ffc107;
+}
+.bg-green{
+    background: #28a745;
+    color: #fff;
+}
+.text-green{
+    color: #28a745;
+}
+.bg-red{
+    background: #dc3545;
+    color: #fff;
+}
+.text-red{
+    color: #dc3545;
+}
+.bg-black{
+    background: #343a40;
+    color: #fff;
+}
+.text-black{
+    color: #343a40;
+}
+.bg-red svg{
+    margin-left: 2px;
+}
+.badge svg{
+    margin-top: 2px !important;
+    color: white;
+    padding: 0.5px;
+}
+.booking-detail-banner{
+    height: 175px;
+}
+.booking-detail-banner img{
+    border-radius: 10px;
+    width: 100%;
+    height: 150px;
+}
+.booking-detail-booked-on li{
+    color: #4d4d4d;
+    font-weight: bold;
+}
+.my_services table tr td, #datatable-responsive tr td {
+    vertical-align: middle;
+    padding: 8px 10px;
+}
+.action_icons a svg{
+    margin-bottom: 1px;
+}
+.service-right-section{
+    border-left: 1px solid #ddd;
+}
+.service-program-detail{
+    line-height: 30px !important;
+    font-size: 13px !important;
+    margin-top: -10px !important;
+    margin-bottom: 0 !important;
+    color: #4d4d4d;
+}
+.prg-desc{
+    color: #8f8b8b;
+    font-size: 13px;
+    line-height: 25px !important;
+}
+.fa-star, .fa-star-o{
+    color: #eec903;
+}
+.fa-star.checked, .fa-star-o.checked{
+    color: #f87d0a;
+}
+.fa{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 12px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    vertical-align: middle; 
+}
+.dashboard_icons .fa{
+    margin-bottom: 3px;
+}
+.star-div{
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.star-review-span{
+    margin-left: 15px;
+    color: #eec903;
+}
+.user-image-thumb{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.terms-condition-page .title{
+    font-size: 14px;
+    font-weight: bold;
+    color: #565555;
+    margin-bottom:6px;
+}
+.terms-condition-page .description{
+    line-height: 22px !important;
+}
+.terms-condition-page .fa-plus-circle{
+    font-size: 25px;
+}
+.title-div{
+    width: 100%;
+}
+.location_icons{
+    width: 20px;
+    height: 20px;
+    padding-top: 2px;
+}
+.location_icons i{
+    font-size: 9px;
+}
+.transaction_icons i{
+    margin-top: 3px;
+}
+.heading-title{
+    color: #474747 !important;
+    margin-bottom: 8px !important;
+}
+.sub-pkg-remove-program-btn{
+    position: absolute;
+    right: 20px;
+    top: 25%;
+}
+.health-conditions li{
+    padding-top: 3px !important;
+    color: #646464;
+}
+.img-responsive{
+    width: 100%;
+    height: 140px;
+    margin: 15px 0px;
+    border-radius: 8px;
+}
